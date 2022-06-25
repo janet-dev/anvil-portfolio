@@ -4,7 +4,7 @@
 
 You’re a Full Stack developer at Dicey Tech and part of the Learner Squad.
 Your first project is to create an MVP (Minimum Valuable Product) for a new feature that the company is looking to launch in the next quarter.
-<br>
+<br>https://diceytech.co.uk/dicey-vwxp/
 # The Process 👣
 💡1. Introduction<br>
   🗒️ 1.1. The Project Brief<br><br>
