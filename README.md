@@ -14,7 +14,6 @@ Your first project is to create an MVP (Minimum Valuable Product) for a new feat
           https://anvil.works/learn/tutorials/database-backed-apps<br><br>
 ⭐ 3. Project Portfolio App<br>
   💻 3.1. Build the Portfolio App<br>
-          https://adept-shocking-draw.anvil.app/<br>
   📥 3.2. Submit the work<br>
 
 # Key parts of the Project Portfolio:
@@ -37,3 +36,10 @@ Your first project is to create an MVP (Minimum Valuable Product) for a new feat
 🖇️ Link projects to users<br>
 ➕ Add user permission<br>
 💬 [Bonus] Create a comment form<br>
+
+# The app running on anvil.works
+https://adept-shocking-draw.anvil.app/<br>
+          
+# Clone the app
+https://anvil.works/build#clone:7UI6FM3RD6DATODK=QLLOFMFILLFXELRZSO33WOPO
+
