@@ -25,13 +25,14 @@ The first project created was an MVP (Minimum Valuable Product) for a new featur
 📝 [Bonus] Users and visitors should be able to add comments to existing projects.<br>
  
 # Completing the project:
-📚 Create the data tables<br>
+📚 Create the data tables - stored in PostgreSQL<br>
 🖥 Build the user interface<br>
 🛠 Add projects to the database<br>
 🧩 Display projects<br>
 ⚙ Update existing projects<br>
 ❌ Delete projects<br>
-🖱️Add reaction button<br>
+🖱️ Add reaction button - currently only a 'like' heart is available<br>
+🤸‍♀️ Share project/s - currently done via CSV download<br>
 👥 Support multiple users<br>
 🖇️ Link projects to users<br>
 ➕ Add user permission<br>
