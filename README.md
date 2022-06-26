@@ -43,3 +43,25 @@ https://adept-shocking-draw.anvil.app/<br>
 # Clone the app
 https://anvil.works/build#clone:7UI6FM3RD6DATODK=QLLOFMFILLFXELRZSO33WOPO
 
+# Self Review and Future Improvements
+1. Implement different levels of user:<br>
+Open - no log in for viewing projects<br>
+Visitor - log in to comment or like anyone's projects but no editing<br>
+Owner - log in to create, edit, delete, share/download own projects<br>
+<br>
+2. Add other reactions - love it, curious, etc<br>
+<br>
+3. Modify 'like' so that visitor can only use one like per project - maybe implement a toggle action.<br>
+Don't allow owners to react to own projects<br>
+<br>
+4. Allow own projects to be downloaded as PDFs for sharing with recruiters<br>
+<br>
+5. Amend the comments to be shown only underneath the associated projects<br>
+Implement profanity, etc checks if possible<br>
+<br>
+6. Allow viewers to view projects of a particular owner<br>
+<br>
+7. Modify the UI in line with current standards.<br>
+<br>
+8. Make the app mobile friendly<br>
+<br>
