@@ -40,10 +40,7 @@ The first project created was an MVP (Minimum Valuable Product) for a new featur
 
 # The app running on anvil.works
 https://adept-shocking-draw.anvil.app/<br>
-          
-# Clone the app
-https://anvil.works/build#clone:7UI6FM3RD6DATODK=QLLOFMFILLFXELRZSO33WOPO
-
+         
 # Self Review and Future Improvements
 1. Implement different levels of user:<br>
 Open - no log in for viewing projects<br>
